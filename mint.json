@@ -45,7 +45,6 @@
   "navigation": [
     {
       "group": "Start here",
-      "icon": "flag-pennant"
       "pages": [
         "introduction",
         "quickstart",
