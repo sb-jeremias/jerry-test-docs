@@ -27,12 +27,12 @@
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
+      "name": "Website",
+      "icon": "browser",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "Support",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
@@ -44,15 +44,16 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Start here",
+      "icon": "flag-pennant"
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "detailed setup"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Barcode Scanner SDK",
       "pages": [
         "essentials/markdown",
         "essentials/code",
