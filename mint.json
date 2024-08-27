@@ -48,18 +48,16 @@
       "pages": [
         "introduction",
         "quickstart",
-        "detailed setup"
+        "detailed-setup"
       ]
     },
     {
       "group": "Barcode Scanner SDK",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "android-barcode/ready-to-use-ui",
+        "android-barcode-classic-ui/code",
+        "android-barcode/scan-from-image",
+        "android-barcode/storage-and-encription"
       ]
     },
     {
