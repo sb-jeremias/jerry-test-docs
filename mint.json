@@ -25,6 +25,24 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
+  "tabs": [
+    {
+        "name": "Android",
+        "url": "android-sdk"
+    },
+    {
+        "name": "iOS",
+        "url": "ios-sdk"
+    },
+    {
+        "name": "Web",
+        "url": "web-sdk"
+    }
+    {
+        "name": "Flutter",
+        "url": "flutter-sdk"
+    }
+]
   "anchors": [
     {
       "name": "Website",
